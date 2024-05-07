@@ -1,0 +1,12 @@
+.containerPatrocinadores {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    justify-content: space-between;
+    gap: 9px;
+    padding: 1rem;
+    
+}
+
+.logoPatrocinadores {
+    width: 20%;
+}

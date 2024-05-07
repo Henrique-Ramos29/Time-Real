@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem;
+}
+
+.imagemLogo {
+    width: 50%;
+}
+
